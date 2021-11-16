@@ -10,10 +10,10 @@ import {AppMaterialModule} from "../shared/app-material/app-material.module";
   declarations: [
     CoursesComponent
   ],
-  imports: [
-    CommonModule,
-    CoursesRoutingModule,
-    AppMaterialModule
-  ]
+    imports: [
+        CommonModule,
+        CoursesRoutingModule,
+        AppMaterialModule,
+    ]
 })
 export class CoursesModule { }
