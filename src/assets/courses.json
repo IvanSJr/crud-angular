@@ -1,0 +1,9 @@
+[
+  {"_id": "1", "name": "Angular", "category": "front-end"},
+  {"_id": "2", "name": "Java 11", "category": "back-end"},
+  {"_id": "3", "name": "Spring Boot", "category": "back-end"},
+  {"_id": "4", "name": "HTML", "category": "front-end"},
+  {"_id": "5", "name": "Python 3", "category": "back-end"},
+  {"_id": "6", "name": "RESTFUL", "category": "full-stack"},
+  {"_id": "7", "name": "SCSS / CSS", "category": "front-end"}
+]
